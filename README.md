@@ -73,7 +73,7 @@ Todos los archivos originales estan respaldados con sufijo `_backup_`:
 ## 📞 Contacto:
 
 - **Email**: electroguanarteme28@gmail.com
-- **Web**: www.electroguanartemesi.com
+- - **Web:** www.electroguanarteme.es
 
 ---
 
